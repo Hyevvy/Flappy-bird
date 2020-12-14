@@ -1,5 +1,5 @@
 # Flappy-bird
-2020년 2학기 '공개SW실무' 강의에서 오픈소스인 sourabhv/FlapPyBird(https://github.com/sourabhv/FlapPyBird)를 활용하여 한학기동안 팀원들과 진행한 프로젝트입니다. 
+2020-2 '공개SW실무' 강의에서 오픈소스인 sourabhv/FlapPyBird(https://github.com/sourabhv/FlapPyBird)를 활용하여 한학기동안 팀원들과 진행한 프로젝트입니다. 
 
 주제를 정하고, 코드를 분석한 뒤 개선하는 것까지 모든 과정을 팀원들과 함께 하였습니다.
 그 중 저는 조장으로서 코드분석, 코드개선, 보고서작성, 최종 발표를 맡았습니다. 
